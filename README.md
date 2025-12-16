@@ -40,7 +40,8 @@ print(f"{inf_norm:.2f}")
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<img width="1340" height="613" alt="Screenshot 2025-12-16 225814" src="https://github.com/user-attachments/assets/78081e16-fc09-4317-bd16-1a6712490367" />
+<img width="1383" height="765" alt="Screenshot 2025-12-16 225758" src="https://github.com/user-attachments/assets/c9ccc465-1c5d-4ee6-8977-ed84a99a91fe" />
+
 <img width="1340" height="613" alt="Screenshot 2025-12-16 225814" src="https://github.com/user-attachments/assets/edae0525-68d2-49e6-a86b-d24f9e427820" />
 
 
